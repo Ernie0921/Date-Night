@@ -43,3 +43,6 @@ Simply Budget was created by:
 Login functionality was planned and is currently not available. Access to the date planner can be found below.
 
 [Click Here](https://youthful-austin-e8326e.netlify.app/make-your-date.html)
+
+#PREVIEW 
+![](./Images/Date-Night.gif)
