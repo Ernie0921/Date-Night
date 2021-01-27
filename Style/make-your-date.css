@@ -1,0 +1,180 @@
+body{
+    min-width: 400px;
+    background-color: rgb(233, 236, 239);
+    
+  }
+
+  html, body {
+    height: 70vh;
+  }
+
+  .nav-link {
+      font-size: large;
+      font-family: 'Josefin Sans', sans-serif;
+      padding: 3px  
+  }
+
+
+  .card-border {
+    border: 0px solid black;
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16); 
+    box-shadow: 0 2px 10px 0 rgba(0,0,0,0.12);
+
+  }
+
+  .card {
+    max-width:335px;
+  }
+
+  .bg-neutral {
+    background-color: rgb(255, 255, 255);
+  }
+
+  .bg-greyish {
+    background-color: rgb(230, 230, 230);
+  }
+
+  .bg-grey {
+    background-color: rgb(209, 209, 209);
+  }
+
+  .bg-grey:hover {
+    background-color: rgb(134, 134, 134)
+  }
+
+  .bg-grey:active {
+    background-color: rgb(134, 134, 134)
+  }
+
+  .bg-pink {
+    background-color:  #EC7063;
+  }
+
+  .bg-pink:hover {
+    background-color: rgb(185, 49, 49);
+  }
+
+
+  footer {
+    color:whitesmoke;
+    
+    width: 100%;
+   
+    position: relative;
+    bottom: 0;
+    
+}
+
+  footer h3 span {
+    color:  #EC7063
+  }
+  
+  .footer-mobile span {
+    color:  #EC7063
+  }
+  
+  .footer-mobile {
+    color:whitesmoke;
+    height: 130px;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    font-size: 18px;
+    min-height: 100px;
+  }
+  
+  .header h3{
+    font-family: 'Coiny', cursive;
+    color: #EC7063;
+    background-color: whitesmoke;
+    font-size: 1.75rem;
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+  }
+  
+  .header {
+    height:180px;
+    width: 100%;
+    top: 0;
+  }
+
+  @media screen and (min-width: 981px) {
+    .footer-mobile{
+      display: none;
+    }
+  }
+  
+  
+  @media screen and (max-width: 981px) {
+    .footer-desktop{
+      display: none;
+    }
+  }
+
+  .container{
+    width: 1025px;
+  }
+
+  .vertical-center {
+    height: 60vh;
+    width: 100%;
+
+    text-align: center;  /* align the inline(-block) elements horizontally */
+    font: 0/0 a;         /* remove the gap between inline(-block) elements */
+  }
+
+  .vertical-center:before {    /* create a full-height inline block pseudo=element */
+    content: ' ';
+    display: inline-block;
+    vertical-align: middle;  /* vertical alignment of the inline element */
+    height: 100%;
+  }
+
+  .vertical-center > .container {
+    max-width: 100%;
+   
+
+    display: inline-block;
+    vertical-align: middle;  /* vertical alignment of the inline element */
+    font: 16px/1 "Helvetica Neue", Helvetica, Arial, sans-serif;        /* <-- reset the font property */
+  }
+
+
+
+  .btn-lg, .btn-xl, .choose-button {
+    background-color:  #EC7063;
+  }
+
+  .btn-lg:hover {
+    background-color: rgb(185, 49, 49);
+  }
+
+  .btn-xl:hover {
+    background-color: rgb(185, 49, 49);
+  }
+
+  .choose-button:hover {
+    background-color: rgb(185, 49, 49);
+  }
+
+  .btn-xl {
+    font-size: 40px;
+    border: 2px solid black
+  }
+
+ 
+
+
+   @media screen and (min-height: 770px) {
+    #recipe-select-container, #restaurant-select-container, #outdoor-activity-select-container, #indoor-activity-select-container{
+      margin-bottom: 10vh;
+    }
+  }
+
+  
+
+
+  
+  
+  
