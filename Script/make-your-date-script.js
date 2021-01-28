@@ -611,42 +611,42 @@ $("#continueToRestaurants").click(function() {
 
     var indoorActivities = [
       {activity: 'Movie night!',
-       image: 'images/activities/movie-night.jpg',
+       image: 'Images/activities/movie-night.jpg',
        text: "Take Netflix and Chill to a new level and class up the affair. Pop the special popcorn, get really cozy, and put on your favorite flick. Scary movies can always be a fun choice!😱",
        url: 'https://www.digitaltrends.com/movies/best-movies-on-netflix/'
       },
       {activity: 'Play video games!',
-       image: 'images/activities/video-game.jpg',
+       image: 'Images/activities/video-game.jpg',
        text: "There are tons of great co-op and multiplayer games for your couple's night in. You could have a virtual date in Animal Crossing. You could pwn n00bs together in Call of Duty. Get creative!",
        url: 'https://mashable.com/article/the-11-best-video-games-to-play-with-your-significant-other/'
       },
       {activity: 'Ask each other questions!',
-       image: 'images/activities/questions.jpg',
+       image: 'Images/activities/questions.jpg',
        text: 'Get to know your partner better by asking them questions. There are tons of "questions for couples" lists out there, and they can be tons of fun!',
        url: 'https://dating.lovetoknow.com/Fun_Relationship_Questions'
       },
       {activity: 'Learn a dance!',
-       image: 'images/activities/couple-dance.jpg',
+       image: 'Images/activities/couple-dance.jpg',
        text: "Take to Youtube and learn a dance together. You'll have lots of fun and be able to cut a rug at the next wedding you attend together. Go for a classic tango or finally learn to floss.",
        url: 'https://www.youtube.com/results?search_query=couple+dance+tutorial'
       },
       {activity: 'Do a puzzle!',
-       image: 'images/activities/puzzle.jpg',
+       image: 'Images/activities/puzzle.jpg',
        text: 'Test your relationsship by working on a puzzle togther. Put on some chill tunes in the background to set the mood for your puzzle adventures.',
        url: 'https://www.amazon.com/Best-Sellers-Toys-Games-Puzzles/zgbs/toys-and-games/166359011'
       },
       {activity: 'Make cocktails!',
-       image: 'images/activities/cocktail.jpg',
+       image: 'Images/activities/cocktail.jpg',
        text: "Show off your bartending skills and make some drinks together. Be sure to gather some ingredients before so you can really class up the joint. We're talking martinis. ",
        url: 'https://www.acouplecooks.com/best-cocktail-recipes-to-make-at-home/'
       },
       {activity: 'Give each other massages!',
-       image: 'images/activities/massage.jpg',
+       image: 'Images/activities/massage.jpg',
        text: "You don't need to go to the spa to get a couples massage! Just get some lotion, maybe some essential oils, and find a cozy place to trade massages. Bonus points for new-age music and candles.",
        url: 'https://www.goodnet.org/articles/5-relaxing-massage-techniques-anyone-do-at-home#:~:text=Place%20the%20thumbs%20just%20above,the%20person%20receiving%20the%20massage.'
       },
       {activity: 'Camp in the living room!',
-       image: 'images/activities/camping.jpg',
+       image: 'Images/activities/camping.jpg',
        text: "Ah the great indoors. Remember building forts out of blankets in your youth? Well now you're an adult and can do it way better. Roast some marshmellows on the stove and tell some romantic ghost stories.",
        url: 'https://www.fatherly.com/play/an-architects-tips-for-turning-the-living-room-into-an-epic-pillow-fort/'
       },
@@ -654,42 +654,42 @@ $("#continueToRestaurants").click(function() {
   
     var outdoorActivities = [
       {activity: 'See a movie!',
-       image: 'images/activities/movies.jpg',
+       image: 'Images/activities/movies.jpg',
        text: "The dinner and a movie combo is timeless for a reason. Whether you're seeing a romantic comedy or a superhero flick, you can't go wrong with a movie date.",
        url: 'https://www.fandango.com/'
       },
       {activity: 'Hit the Barcade!',
-       image: 'images/activities/arcade.jpeg',
+       image: 'Images/activities/arcade.jpeg',
        text: "Arcades have returned in the form of the Barcade! Have a few drinks and take the opportunity to show off your Hadoken.  Your date will love it.",
        url: 'https://www.google.com/search?q=find+a+barcade&oq=find+a+barcade'
       },
       {activity: 'Go on a hike!',
-       image: 'images/activities/hiking.jpg',
+       image: 'Images/activities/hiking.jpg',
        text: "Nothing promotes couple's bonding like the call of nature. Take a drive to your closest nature trail and spend some time in the great outdoors with that special someone.",
        url: 'https://www.google.com/search?q=nature+trails+near+me'
       },
       {activity: 'Go horseback riding!',
-       image: 'images/activities/horse-back.jpg',
+       image: 'Images/activities/horse-back.jpg',
        text: "Take a cue from the Bachelor and saddle up for a romantic date upon a wonderous steed. Bonus point if you're riding on the beach at sunset. If you don't want to ride a horse, carraige rides are a great alternative.",
        url: 'https://www.google.com/search?q=horse+riding+date&oq=horse+riding+date'
       },
       {activity: 'Hit the mall!',
-       image: 'images/activities/mall.jpg',
+       image: 'Images/activities/mall.jpg',
        text: 'Find your closest non-abandoned mall and do it like they did in the 80s. Try on some funky clothes, get a soft pretzel, and delight in the unbridled consumerism. Bonus point if you can have a fitting room montage.',
        url: 'https://www.google.com/search?q=malls+near+me&oq=malls+near+me'
       },
       {activity: 'Go to a museum!',
-       image: 'images/activities/museum.jpg',
+       image: 'Images/activities/museum.jpg',
        text: "There's no better way to convince your partner that you're a true intellectual than visitng your local museum. Look up the exhibits before hand so you can have some fascinating tid-bits in your back pocket.",
        url: 'https://www.google.com/search?q=museum+near+me&oq=museum+near+me'
       },
       {activity: 'Shoot some hoops!',
-       image: 'images/activities/basketball.jpg',
+       image: 'Images/activities/basketball.jpg',
        text: "Show your partner that you've got a real basketball jones by taking them downtown and straight into the paint. That's right: we're talking hoops. Display your dunks.",
        url: 'https://www.youtube.com/watch?v=DlhWPVJNAOo'
       },
       {activity: 'Drive some go karts!',
-       image: 'images/activities/go-kart.jpg',
+       image: 'Images/activities/go-kart.jpg',
        text: "Head down to your local grand prix and drift into love. Hit the go-kart track with some banana peels and mushrooms, and you're sure to find couple's bliss.",
        url: 'https://www.google.com/search?q=go-karts+near+me&oq=go-karts+near+me'
       },
